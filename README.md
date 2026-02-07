@@ -79,11 +79,11 @@ assignment/
 ### Steps to Run
 
 1. **Clone the repository (if applicable) or extract the project**
-2. **Navigate to project directory:**
-   ```bash
-   cd D:\assignment
-to run :
+2. **Navigate to project directory:** : where You have cloned the repository
+example
+   cd  \assignment
+3. to run :
    docker-compose up --build
-   
-to stop:
+or  
+4. to stop:
    docker-compose down
