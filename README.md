@@ -83,7 +83,6 @@ assignment/
 example
    cd  \assignment
 3. to run :
+ ```bash
    docker-compose up --build
-or  
-4. to stop:
-   docker-compose down
+
