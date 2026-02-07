@@ -82,7 +82,16 @@ assignment/
 2. **Navigate to project directory:** : where You have cloned the repository
 example
    cd  \assignment
-3. to run :
- ```bash
-   docker-compose up --build
+3. **To run the project:**
 
+```bash
+docker-compose up --build
+```
+to stop the project :
+```bash
+docker-compose down
+```
+4. check :
+Frontend Application: http://localhost:3000
+Backend API: http://localhost:5000/api/products
+Cart API: http://localhost:5000/api/cart
